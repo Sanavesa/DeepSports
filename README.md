@@ -7,6 +7,21 @@ Action quality assessment (AQA) is an active research problem in video-based app
 
 For the full paper, click [here](https://arxiv.org/abs/2207.12318).
 
+In case our paper proves beneficial to your research, we kindly request you to reference the following BibTex entry for citation purposes:
+
+```BibTex
+@misc{aqa_using_transformers,
+  author = {Iyer, Abhay and Alali, Mohammad and Bodala, Hemanth and Vaidya, Sunit},
+  title = {Action Quality Assessment using Transformers},
+  year = {2022},
+  url = {https://arxiv.org/abs/2207.12318},
+  doi = {10.48550/ARXIV.2207.12318},
+  publisher = {arXiv},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+```
+
 ## License
 The licensing terms for our work are governed by the [MIT license](LICENSE). [TimeSformer](https://github.com/facebookresearch/TimeSformer), on the other hand, is subject to the CC-NC 4.0 International license. Nonetheless, specific sections of the project fall under distinct licensing terms, such as [SlowFast](https://github.com/facebookresearch/SlowFast) and [pytorch-image-models](https://github.com/rwightman/pytorch-image-models), which are licensed under the Apache 2.0 license.
 
